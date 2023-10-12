@@ -1,0 +1,22 @@
+{
+  "gender": "male",
+  "medicalPhoto": "https://example.com/medical-photo.jpg",
+  "bodyParameters": {
+    "weight": 75,
+    "height": 180
+  },
+  "operations": ["appendectomy", "tonsillectomy"],
+  "breaks": ["left arm", "right leg"],
+  "allergies": ["penicillin", "pollen"],
+  "disease": ["hypertension", "diabetes"],
+  "medicaments": ["aspirin", "insulin"],
+  "smoker": {
+    "isSmoking": true,
+    "packsPerDay": 1,
+    "yearsOfSmoking": 10
+  },
+  "alcohol": {
+    "isDrinking": true,
+    "status": "OCCASIONALY"
+  }
+}

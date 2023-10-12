@@ -1,0 +1,29 @@
+@import '../../node_modules/flag-icons/css/flag-icons.min.css';
+body {
+  font-family: 'Euclid Circular A', sans-serif !important;
+}
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+.underline {
+  position: relative;
+  display: inline-block;
+}
+.underline::after {
+  content: '';
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  background-color: #da2c38;
+  width: 100%;
+  height: 1px;
+}

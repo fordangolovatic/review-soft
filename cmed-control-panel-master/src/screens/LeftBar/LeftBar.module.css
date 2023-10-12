@@ -1,0 +1,14 @@
+
+
+.sideBar{
+  height: calc(100vh - 70px);
+  background-color: #eceff1;
+  width: 70px;
+  overflow: hidden;
+  transition: width 0.4s ease-in-out;
+
+}
+
+.sideBar:hover{
+  width: 250px;
+}

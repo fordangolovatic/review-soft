@@ -1,0 +1,15 @@
+.bg {
+  z-index: -1;
+  position: absolute;
+  top: -54px;
+  height: calc(100vh - 90px);
+  width: 100%;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 1280px) {
+  .bg {
+    top: -53px;
+    height: 604px;
+  }
+}

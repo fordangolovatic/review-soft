@@ -1,0 +1,12 @@
+{
+    "HELLO": "Hello",
+    "PRODUCT": {
+        "NEW": "New Product: {name}"
+    },
+    "NOT_DEFINED": "{property} should not be null or undefined",
+    "NOT_EMPTY": "{property} cannot be empty",
+    "INVALID_EMAIL": "{property} is invalid",
+    "INVALID_BOOLEAN": "{property} is not a boolean",
+    "MIN": "{property} must be longer than or equal to {constraints.0} characters",
+    "MAX": "{property} must be shorter than or equal to {constraints.0} characters"
+}

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1",
+    "name": "Med Team LA",
+    "userCount": 90,
+    "role": "Team Creator",
+    "editAccess": true,
+    "banner": "/images/neurology.png"
+  },
+  {
+    "id": "2",
+    "name": "Vital Care",
+    "userCount": 65,
+    "role": "Team Manager",
+    "banner": "/images/neurology.png"
+  },
+  {
+    "id": "3",
+    "name": "Emergency Squad",
+    "userCount": 182,
+    "role": "Team Mamember",
+    "banner": "/images/neurology.png"
+  },
+  {
+    "id": "4",
+    "name": "Healing Hands",
+    "userCount": 12,
+    "role": "Team Mamember",
+    "banner": "/images/neurology.png"
+  },
+  {
+    "id": "5",
+    "name": "Life Savers",
+    "userCount": 48,
+    "role": "Team Mamember",
+    "banner": "/images/neurology.png"
+  },
+  {
+    "id": "6",
+    "name": "Professional Care",
+    "userCount": 24,
+    "role": "Team Mamember",
+    "banner": "/images/neurology.png"
+  }
+]

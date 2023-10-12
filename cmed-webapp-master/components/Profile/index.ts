@@ -1,0 +1,14 @@
+// export { ActivityProgram } from './ActivityProgram';
+// export { Analysis } from './Analysis';
+// export { Consultations } from './Consultations';
+// export { Content } from './Content';
+// export { FavoriteArticles } from './FavoriteArticles';
+// export { FavoriteDoctors } from './FavoriteDoctors';
+// export { MedicalAssistants } from './MedicalAssistants';
+// export { MedicalRecord } from './MedicalRecord';
+// export { Message } from './Message';
+// export { PersonalInformation } from './personal-information/PersonalInformation';
+// export { ProfessionalInfo } from './ProfessionalInfo';
+// export { Wallet } from './Wallet';
+// export { Sidebar } from './Sidebar/Sidebar';
+export default {};

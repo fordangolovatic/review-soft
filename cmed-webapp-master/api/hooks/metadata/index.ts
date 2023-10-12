@@ -1,0 +1,1 @@
+export { useMetadataQuery } from './useMetadataQuery';

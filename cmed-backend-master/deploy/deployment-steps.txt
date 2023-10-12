@@ -1,0 +1,11 @@
+sudo rm -rf clickmedicus-api/
+mkdir clickmedicus-api
+cd clickmedicus-api
+
+7z x clickmedicus-api.7z
+rm -rf clickmedicus-api.7z
+npm install
+npm run build
+nano package.json
+nano .env.development
+sudo pm2 restart clickmedicus-api

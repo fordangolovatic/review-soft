@@ -1,0 +1,75 @@
+{
+  "departmentTitle": "Departments",
+  "departmentSubTitle": "Find a Doctor by Speciality",
+  "gynecology": "Gynecology",
+  "dermatology": "Dermatology",
+  "gastrology": "Gastrology",
+  "neurology": "Neurology",
+  "urology": "Urology",
+  "pediatrics": "Pediatrics",
+  "endocrinology": "Endocrinology",
+  "generalmedicine": "General Medicine",
+
+  "headerTitleOne": "International",
+  "headerTitleTwo": "medical consultations",
+  "headerTitleThree": "in your language",
+  "headerSubtitle": "Clickmedicus is breaking down barriers to healthcare by connecting you to top-rated doctors from around the world in your language with just a few clicks.",
+  "about": "Welcome to ClickMedicus, the premier online doctor portal for patients worldwide. Our telemedicine platform offers seamless access to medical professionals in all disciplines. Our multilingual search lets patients find doctors by language, discipline, and location. Our social network allows doctors to collaborate and share expertise, ensuring high-quality care.\n\nTrust ClickMedicus for top-notch healthcare services.\n\nOur platform is user-friendly and easy to navigate. Patients can easily search for doctors, view their profiles, and book appointments that suit their schedules. Consultations are conducted through our integrated video consultation feature, allowing patients to communicate with their doctors in real-time and receive medical advice from their homes.\n\nWe understand that medical records and test results are important in determining a patient's medical condition. That's why our platform allows patients to easily share their medical records, X-rays, CT scans, laboratory reports and other relevant documents with their doctors online. This ensures that doctors have access to the necessary information to provide accurate medical advice.\n\nAt ClickMedicus, we are committed to providing patients with the best possible experience. Our platform is designed to be patient-centric, with features that provide transparency on doctor's' services, availability, and pricing. We are creating a virtual clinic where patients can receive medical care that is affordable and convenient and delivered with the highest standard of professionalism and medical expertise.\n\nThank you for choosing ClickMedicus. We look forward to serving you and your healthcare needs.\n",
+  "searchTitle": "Choose your preferred doctor based on language, country, and speciality filters",
+  "searchSpeciality": "Search Specialities",
+  "searchSpecialityPlaceholder": "Chose a speciality",
+  "searchLanguage": "Language",
+  "searchLanguagePlaceholder": "Your doctor speak",
+  "searchCountry": "Country",
+  "searchCountryPlaceholder": "Your doctor from",
+
+  "worksTitle": "How it works",
+  "worksSubtitle": "Ready to experience the convenience of telemedicine? Follow these simple steps:\n\n",
+  "worksTitleSub": "Don't wait – start your telemedicine journey today and enjoy the benefits of virtual healthcare.\n",
+  "consultationsTitle": "Consultations",
+  "1n01Title": "Register",
+  "1n01Text": "Register and create an account.",
+  "1n02Title": "Select the department",
+  "1n02Text": "Select the department that matches your medical needs.",
+  "1n03Title": "Choose a doctor",
+  "1n03Text": "Choose a licensed medical professional from our team of expert doctors.",
+  "1n04Title": "Connect",
+  "1n04Text": "Connect with your selected doctor and get the advice you need from the comfort of your own home.",
+
+  "2n01Title": "Register",
+  "2n01Text": "Register and create an account.",
+  "2n02Title": "Select the department",
+  "2n02Text": "Select the department that matches your medical needs.",
+  "2n03Title": "Choose a doctor",
+  "2n03Text": "Choose a licensed medical professional from our team of expert doctors.",
+  "2n04Title": "Connect",
+  "2n04Text": "Connect with your selected doctor and get the advice you need from the comfort of your own home.",
+
+  "3n01Title": "Register",
+  "3n01Text": "Register and create an account.",
+  "3n02Title": "Select the department",
+  "3n02Text": "Select the department that matches your medical needs.",
+  "3n03Title": "Choose a doctor",
+  "3n03Text": "Choose a licensed medical professional from our team of expert doctors.",
+  "3n04Title": "Connect",
+  "3n04Text": "Connect with your selected doctor and get the advice you need from the comfort of your own home.",
+
+
+  "freequestion": "Free questions",
+
+
+  "analyses": "Analyses",
+
+
+  "ecoTitle": "Clickmedicus's Services",
+  "forpatients": "For Patients",
+  "forresidents": "For Residents",
+  "fordoctors": "For Doctors",
+
+  "keepTitle": "Keep yourself informed",
+  "keepSubtitle": "We offer users 4 directions to quickly find the necessary information: it can be news, an interesting article, or the doctor’s answer to your question",
+  "keepArticles": "Articles",
+  "keepNews": "News",
+  "keepMedicalJournal": "Medical Journal",
+  "keepForum": "Forum"
+}

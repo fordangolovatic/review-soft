@@ -1,0 +1,11 @@
+.cardImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.7);
+  transition: all 0.4s;
+}
+.cardImage:hover {
+  filter: brightness(0.9);
+  transform: scale(1.01);
+}

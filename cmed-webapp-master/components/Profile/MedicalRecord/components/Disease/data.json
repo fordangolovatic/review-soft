@@ -1,0 +1,37 @@
+[
+  {
+    "createdAt": "2023-02-02T08:07:06.179Z",
+    "title": "Acne",
+    "id": "1"
+  },
+  {
+    "createdAt": "2023-02-02T05:28:00.823Z",
+    "title": "Bipolar Disorder",
+    "id": "2"
+  },
+  {
+    "createdAt": "2023-02-02T03:54:06.354Z",
+    "title": "Catarrh",
+    "id": "3"
+  },
+  {
+    "createdAt": "2023-02-02T08:50:17.099Z",
+    "title": "Dementia",
+    "id": "4"
+  },
+  {
+    "createdAt": "2023-02-01T19:52:00.178Z",
+    "title": "Epilepsy",
+    "id": "5"
+  },
+  {
+    "createdAt": "2023-02-02T14:47:55.626Z",
+    "title": "Flu",
+    "id": "6"
+  },
+  {
+    "createdAt": "2023-02-01T19:12:49.583Z",
+    "title": "Gallstones",
+    "id": "7"
+  }
+]

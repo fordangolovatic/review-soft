@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "fullName": "John Doe",
+    "specialty": "Cardiology",
+    "img": "https://images.pexels.com/photos/3714743/pexels-photo-3714743.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1%201x,%20https://images.pexels.com/photos/3714743/pexels-photo-3714743.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2%202x",
+    "languages": ["English", "Spanish", "French"],
+    "experience": 4,
+    "location": {
+      "country": "United States",
+      "city": "New York"
+    },
+    "price": 30
+  },
+  {
+    "id": 2,
+    "fullName": "Jane Smith",
+    "specialty": "Dermatology",
+    "img": "",
+    "languages": ["English", "Mandarin", "German"],
+    "experience": 3,
+    "location": {
+      "country": "Canada",
+      "city": "Toronto"
+    },
+    "price": 25
+  },
+  {
+    "id": 3,
+    "fullName": "Michael Lee",
+    "specialty": "Oncology",
+    "img": "",
+    "languages": ["English", "Korean", "Japanese"],
+    "experience": 2,
+    "location": {
+      "country": "South Korea",
+      "city": "Seoul"
+    },
+    "price": 20
+  },
+  {
+    "id": 4,
+    "fullName": "Maria Garcia",
+    "specialty": "Neurology",
+    "img": "",
+    "languages": ["English", "Spanish", "Portuguese"],
+    "experience": 1,
+    "location": {
+      "country": "Brazil",
+      "city": "Rio de Janeiro"
+    },
+    "price": 35
+  },
+  {
+    "id": 5,
+    "fullName": "Ahmed Khan",
+    "specialty": "Pediatrics",
+    "img": "",
+    "languages": ["English", "Urdu", "Arabic"],
+    "experience": 5,
+    "location": {
+      "country": "Pakistan",
+      "city": "Karachi"
+    },
+    "price": 15
+  },
+  {
+    "id": 6,
+    "fullName": "Yoko Tanaka",
+    "specialty": "Internal Medicine",
+    "img": "",
+    "languages": ["Japanese", "English", "Chinese"],
+    "experience": 2,
+    "location": {
+      "country": "Japan",
+      "city": "Tokyo"
+    },
+    "price": 40
+  },
+  {
+    "id": 7,
+    "fullName": "Luis Sanchez",
+    "specialty": "Psychiatry",
+    "img": "",
+    "languages": ["English", "Spanish", "French"],
+    "experience": 0,
+    "location": {
+      "country": "Mexico",
+      "city": "Mexico City"
+    },
+    "price": 20
+  },
+  {
+    "id": 8,
+    "fullName": "Anna Petrova",
+    "specialty": "Obstetrics and Gynecology",
+    "img": "",
+    "languages": ["Russian", "English", "French"],
+    "experience": 3,
+    "location": {
+      "country": "Russia",
+      "city": "Moscow"
+    },
+    "price": 30
+  },
+  {
+    "id": 9,
+    "fullName": "Chen Wei",
+    "specialty": "Orthopedics",
+    "img": "",
+    "languages": ["Mandarin", "English", "Cantonese"],
+    "experience": 4,
+    "location": {
+      "country": "China",
+      "city": "Shanghai"
+    },
+    "price": 35
+  },
+  {
+    "id": 10,
+    "fullName": "Federico Gonzalez",
+    "specialty": "Ophthalmology",
+    "img": "",
+    "languages": ["Spanish", "English", "Italian"],
+    "experience": 1,
+    "location": {
+      "country": "Argentina",
+      "city": "Buenos Aires"
+    },
+    "price": 25
+  }
+]

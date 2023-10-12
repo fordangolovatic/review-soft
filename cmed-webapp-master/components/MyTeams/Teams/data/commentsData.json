@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Alex Smith",
+    "role": "Manager",
+    "avatar": "/images/avatar.png",
+    "date": "",
+    "content": "Not seeing much difference here from the Double Diamond that the author critiques. The only difference is that he has added a few steps in between which are essentially the glue in between the steps of the Double Diamond.",
+    "likes": 0,
+    "replies": ["comment", "comment2"]
+  },
+  {
+    "id": "2",
+    "name": "Suman Silvia",
+    "role": "Creator",
+    "avatar": "/images/avatar.png",
+    "date": "",
+    "content": "Not seeing much difference here from the Double Diamond that the author critiques.",
+    "likes": 4,
+    "replies": []
+  },
+  {
+    "id": "3",
+    "name": "Marissa Newman",
+    "role": "Creator",
+    "avatar": "/images/avatar.png",
+    "date": "",
+    "content": "Not seeing much difference here from the Double Diamond that the author critiques.",
+    "likes": 4,
+    "replies": ["comment", "comment2", "comment3", "comment4"]
+  }
+]

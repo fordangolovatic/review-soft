@@ -1,0 +1,67 @@
+[
+    {
+        "stateId": 1,
+        "countryId": 1,
+        "stateName": "Maharashtra"
+    },
+    {
+        "stateId": 2,
+        "countryId": 1,
+        "stateName": "iyo8y4o753967530968357096537639j695369837349875j430976j439579438755873-0iyo8y4o753967530968357096537639j695369837349875j430976j439579438755873-0"
+    },
+    {
+        "stateId": 3,
+        "countryId": 1,
+        "stateName": "7\\57]6[p05yo5yo5"
+    },
+    {
+        "stateId": 4,
+        "countryId": 1,
+        "stateName": "CDNR"
+    },
+    {
+        "stateId": 5,
+        "countryId": 1,
+        "stateName": "GBP"
+    },
+    {
+        "stateId": 6,
+        "countryId": 1,
+        "stateName": "I"
+    },
+    {
+        "stateId": 7,
+        "countryId": 1,
+        "stateName": "INRR"
+    },
+    {
+        "stateId": 8,
+        "countryId": 1,
+        "stateName": "EUR"
+    },
+    {
+        "stateId": 10,
+        "countryId": 31,
+        "stateName": "EUR"
+    },
+    {
+        "stateId": 21,
+        "countryId": 1,
+        "stateName": "United States of America"
+    },
+    {
+        "stateId": 0,
+        "countryId": 1,
+        "stateName": "United States of America"
+    },
+    {
+        "stateId": 21,
+        "countryId": -1,
+        "stateName": "United States of America"
+    },
+    {
+        "stateId": 21,
+        "countryId": 3,
+        "stateName": "United States of America"
+    }
+]

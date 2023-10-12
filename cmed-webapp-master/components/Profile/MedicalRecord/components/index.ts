@@ -1,0 +1,10 @@
+export { default as Alcohol } from './Alcohol';
+export { default as Allergies } from './Allergies';
+export { default as BodyParams } from './BodyParams';
+export { default as Breaks } from './Breaks';
+export { default as Disease } from './Disease';
+export { default as Gender } from './Gender';
+export { default as MedicalAnalysisPhoto } from './MedicalAnalysisPhoto';
+export { default as Medicaments } from './Medicaments';
+export { default as Operations } from './Operations';
+export { default as Smoker } from './Smoker';

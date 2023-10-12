@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "content": "Blood sampling is the first test before other examinations - ultrasound, X-ray, physiotherapy. On the eve of the visit to the medical ...",
+    "user": {
+      "name": "Inna Tovbina",
+      "role": "Doctor",
+      "avatar": "/images/doctorCard.png"
+    },
+    "attachment": "/images/departments-mti.png",
+    "likes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "comments": [
+      { "content": "comment", "user": { "name": "Comment user", "avatar": "" } }
+    ],
+    "views": 256,
+    "createdAt": "2022-08-29T22:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "content": "Poor social support during pregnancy has been linked to inflammation and adverse pregnancy and childhood health outcomes. Placental epigenetic ...",
+    "user": {
+      "name": "Paul Muller",
+      "role": "Doctor",
+      "avatar": "/images/avatar.png"
+    },
+    "attachment": "",
+    "likes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "comments": [
+      { "content": "comment", "user": { "name": "Comment user", "avatar": "" } }
+    ],
+    "views": 189,
+    "createdAt": "2022-12-30T22:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "content": "Understanding the relationship between chronic pain conditions and suicidal behavior—suicide attempt, other intentional self-harm, and death ...",
+    "user": {
+      "name": "Mary Brown",
+      "role": "Doctor",
+      "avatar": "/images/avatar.png"
+    },
+    "attachment": "/images/psyhology.png",
+    "likes": [
+      1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22
+    ],
+    "comments": [
+      { "content": "comment", "user": { "name": "Comment user", "avatar": "" } }
+    ],
+    "views": 61,
+    "createdAt": "2023-01-12T22:00:00.000Z"
+  }
+]

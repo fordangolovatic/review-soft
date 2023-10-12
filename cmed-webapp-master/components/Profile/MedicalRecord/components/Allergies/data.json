@@ -1,0 +1,37 @@
+[
+  {
+    "createdAt": "2023-02-02T08:07:06.179Z",
+    "title": "Cats",
+    "id": "1"
+  },
+  {
+    "createdAt": "2023-02-02T05:28:00.823Z",
+    "title": "Dogs",
+    "id": "2"
+  },
+  {
+    "createdAt": "2023-02-02T03:54:06.354Z",
+    "title": "Hair",
+    "id": "3"
+  },
+  {
+    "createdAt": "2023-02-02T08:50:17.099Z",
+    "title": "Latex",
+    "id": "4"
+  },
+  {
+    "createdAt": "2023-02-01T19:52:00.178Z",
+    "title": "Insects",
+    "id": "5"
+  },
+  {
+    "createdAt": "2023-02-02T14:47:55.626Z",
+    "title": "Mould",
+    "id": "6"
+  },
+  {
+    "createdAt": "2023-02-01T19:12:49.583Z",
+    "title": "Pollens",
+    "id": "7"
+  }
+]

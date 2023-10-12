@@ -1,0 +1,25 @@
+[
+  {
+    "id": "1",
+    "name": "Inna Tovbina",
+    "role": "Doctor",
+    "avatar": "/images/avatar.png"
+  },
+  {
+    "id": "2",
+    "name": "Paul Muller",
+    "role": "Doctor",
+    "avatar": "/images/avatar.png"
+  },
+  {
+    "id": "3",
+    "name": "Mary Brown",
+    "avatar": "/images/avatar.png"
+  },
+  {
+    "id": "4",
+    "name": "Mary Duran",
+    "role": "Doctor",
+    "avatar": "/images/avatar.png"
+  }
+]

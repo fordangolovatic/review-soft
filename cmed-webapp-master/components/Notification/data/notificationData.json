@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "title": "Advances in Healthcare ...",
+    "description": "Event starting",
+    "banner": "/images/departments-mti.png",
+    "canReject": true
+  },
+  {
+    "id": "2",
+    "title": "Wellness & Prevention",
+    "description": "Event starting",
+    "banner": "/images/departments-mti.png",
+    "canReject": true,
+    "canAccept": true
+  }
+]

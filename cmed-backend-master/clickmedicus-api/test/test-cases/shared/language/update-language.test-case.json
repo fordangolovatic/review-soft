@@ -1,0 +1,47 @@
+[
+    {
+        "languageId": 1,
+        "languageName": "INRR",
+        "shortCode": "INRR"
+    },
+    {
+        "languageId": 2,
+        "languageName": "USD1",
+        "shortCode": "USD1"
+    },
+    {
+        "languageId": 3,
+        "languageName": "CDN1",
+        "shortCode": "CDN1"
+    },
+    {
+        "languageId": 4,
+        "languageName": "GBP1",
+        "shortCode": "GBP1"
+    },
+    {
+        "languageId": 5,
+        "languageName": "IN1",
+        "shortCode": "IN1"
+    },
+    {
+        "languageId": 6,
+        "languageName": "INRRRRRRR1",
+        "shortCode": "INRRRRRRR1"
+    },
+    {
+        "languageId": 8,
+        "languageName": "331",
+        "shortCode": "331"
+    },
+    {
+        "languageId": 9,
+        "languageName": "4441",
+        "shortCode": "4441"
+    },
+    {
+        "languageId": 10,
+        "languageName": "EUR1",
+        "shortCode": "EUR1"
+    }
+]

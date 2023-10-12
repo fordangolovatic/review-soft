@@ -1,0 +1,33 @@
+.fixedSidebar {
+  position: fixed;
+  top: 300px;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  z-index: 2;
+}
+.fixedSidebar__block {
+  cursor: pointer;
+  background-color: white;
+  width: 69px;
+  height: 69px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+}
+.fixedSidebar__block svg {
+  stroke: #da2c38;
+  width: 32px;
+}
+.fixedSidebar__block p {
+  font-size: 10px;
+  width: 50px;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  margin: 0;
+}

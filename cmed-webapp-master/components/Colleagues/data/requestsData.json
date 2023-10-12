@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "Paul Muller",
+    "role": "Doctor",
+    "avatar": "/images/avatar.png"
+  },
+  {
+    "id": "2",
+    "name": "Mary Duran",
+    "role": "Doctor",
+    "avatar": "/images/avatar.png"
+  }
+]

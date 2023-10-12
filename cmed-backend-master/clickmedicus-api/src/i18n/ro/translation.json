@@ -1,0 +1,12 @@
+{
+    "HELLO": "Bună ziua",
+    "PRODUCT": {
+        "NEW": "Produs nou: {name}"
+    },
+    "NOT_DEFINED": "{property} nu ar trebui să fie nulă sau nedefinită",
+    "NOT_EMPTY": "{property} nu poate fi gol",
+    "INVALID_EMAIL": "{property}  nu este validă",
+    "INVALID_BOOLEAN": "{property} nu este un boolean",
+    "MIN": "{property} trebuie să fie mai lung sau egal cu {constraints.0} caractere",
+    "MAX": "{property} trebuie să fie mai scurte sau egale cu {constraints.0} characters"
+}

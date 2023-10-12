@@ -1,0 +1,1 @@
+export { mtiDepartmentInfo } from './mtiDepartmentInfo';

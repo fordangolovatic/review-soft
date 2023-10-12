@@ -1,0 +1,93 @@
+{
+  "extends": [
+    "plugin:react/recommended",
+    "airbnb",
+    "airbnb/hooks",
+    "prettier",
+    "eslint:recommended",
+    "plugin:import/errors",
+    "plugin:import/warnings",
+    "plugin:react/jsx-runtime"
+  ],
+  "plugins": ["prettier", "react-hooks"],
+  "env": {
+    "browser": true,
+    "jest": true,
+    "node": true,
+    "es2021": true
+  },
+  "rules": {
+    "react/jsx-props-no-spreading": "off",
+    "no-console": ["error"],
+    "react/prop-types": "off",
+    "react/no-unknown-property": "off",
+    "jsx-a11y/click-events-have-key-events": "off",
+    "jsx-a11y/no-static-element-interactions": "off",
+    "react/button-has-type": "off",
+    "import/no-cycle": "off",
+    "object-curly-spacing": ["error", "always"],
+    "jsx-a11y/label-has-for": [
+      2,
+      {
+        "components": [],
+        "required": {
+          "every": ["nesting", "id"]
+        },
+        "allowChildren": true
+      }
+    ],
+    "no-unescaped-entities": "off",
+    "import/order": [
+      2,
+      {
+        "groups": [
+          "builtin",
+          "external",
+          "internal",
+          "parent",
+          "sibling",
+          "index",
+          "unknown",
+          "object",
+          "type"
+        ],
+        "alphabetize": {
+          "order": "asc",
+          "caseInsensitive": true
+        },
+        "pathGroups": [
+          {
+            "pattern": "react*",
+            "group": "external",
+            "position": "before"
+          }
+        ]
+      }
+    ],
+    "react/function-component-definition": [
+      2,
+      {
+        "namedComponents": "arrow-function",
+        "unnamedComponents": "arrow-function"
+      }
+    ],
+    "import/extensions": [
+      "error",
+      "always",
+      {
+        "js": "never",
+        "jsx": "never",
+        "ts": "never",
+        "tsx": "never"
+      }
+    ],
+    "no-use-before-define": "error",
+    "react/jsx-filename-extension": [
+      "warn",
+      {
+        "extensions": [".js", ".jsx"]
+      }
+    ],
+    "quotes": [2, "single", { "avoidEscape": true }]
+  }
+}

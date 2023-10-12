@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "category": "Ophthalmology",
+    "title": "Problems in wearing lenses",
+    "author": "Mark Nedzelskii",
+    "body": "Hello. I have nearsightedness -3.5 of both eyes. In July 2022, he had conjunctivitis (in one eye). After treatment, dry eye syndrome developed. I treated him for about 2 months (VitA-Pos ointmen ...",
+    "publish_date": "29.08.2022",
+    "views": 256
+  },
+  {
+    "id": 2,
+    "category": "Gynecology",
+    "title": "There's a bruise on my leg",
+    "author": "Anonymous question",
+    "body": "In the third pregnancy, he appeared on his leg like a bruise, but 100% did not hit. The formation is slightly convex and does not hurt. It has been preserved for 3.5 years. It got a little bigger ...",
+    "publish_date": "12.01.2023",
+    "views": 124
+  }
+]
